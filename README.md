@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Mikayla_Ungwyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KayUngwyn/KayUngwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m [Mikayla_Ungwyn](https://github.com/KayUngwyn)
+- 👀 I’m interested in software development, web development, game development, and solving complex coding challenges.
+- 🌱 I’m currently learning advanced Java, Linux, and exploring full-stack development. I'm also diving deeper into C# and ASP.NET for web development.
+- 💞️ I’m looking to collaborate on open-source projects, web applications, and games that challenge me to grow as a developer.
+- 📫 How to reach me: You can email me at ungwynkayla@icloud.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once coded a small game to simulate a fan that speeds up with each click! I love bringing my ideas to life with code.
